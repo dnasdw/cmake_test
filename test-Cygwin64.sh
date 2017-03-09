@@ -11,7 +11,7 @@ rootdir=`pwd`
 rm -rf test
 mkdir test
 cd test
-cmake .. 2>"../Cygwin-Unix Makefiles.txt"
+cmake .. 2>"../Cygwin64-Unix Makefiles.txt"
 cd ..
 rm -rf test
 cd "$cwdir"
