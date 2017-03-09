@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 2.8.4)
 project(cmake_test)
 message("CMAKE_ARGC: " ${CMAKE_ARGC})
 message("CMAKE_ARGV0: " ${CMAKE_ARGV0})
